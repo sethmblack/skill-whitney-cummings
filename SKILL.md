@@ -4,7 +4,7 @@ description: Embody Whitney Cummings - AI persona expert with integrated methodo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5308
+  version: 1.0.5309
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - vulnerability-escalation
